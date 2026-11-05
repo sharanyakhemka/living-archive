@@ -1,0 +1,27 @@
+{
+  "site": {
+    "title": "Thesis Living Archive",
+    "folderName": "LIVING ARCHIVE",
+    "defaultSort": "none",
+    "defaultView": "icon"
+  },
+
+  "arena": {
+    "liveRefreshInBrowser": true,
+    "channels": [
+      { "slug": "your-arena-channel-slug", "category": "auto" }
+    ]
+  },
+
+  "pinterest": {
+    "boards": [
+      { "url": "https://www.pinterest.com/your-username/your-board-name/", "category": "images" }
+    ]
+  },
+
+  "cosmos": {
+    "clusters": [
+      { "url": "https://www.cosmos.so/your-username/your-cluster", "category": "images" }
+    ]
+  }
+}

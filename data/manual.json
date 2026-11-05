@@ -1,0 +1,20 @@
+[
+  {
+    "_example": true,
+    "title": "Example source — delete the _example line to show this one",
+    "category": "sources",
+    "kind": "text",
+    "citation": "Author, A. (2024). Title of the Book. Publisher.",
+    "url": "https://example.com",
+    "app": "upload",
+    "date": "2026-11-05"
+  },
+  {
+    "_example": true,
+    "title": "Example link",
+    "category": "links",
+    "url": "https://example.com/article",
+    "app": "cosmos",
+    "date": "2026-11-05"
+  }
+]
